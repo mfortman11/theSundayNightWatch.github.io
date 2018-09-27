@@ -1,4 +1,26 @@
-# sundayNightWatch.io
-Writeups for our fantasy football league
+# hello-world
 
-Link: https://gsroka1994.github.io/theSundayNightWatch.github.io/
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
